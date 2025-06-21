@@ -30,8 +30,8 @@ Then you can use them in your IoT system HTML:
     <iot-section>
         <iot-aisle id="aisle6" name="Coffee, Hot Beverages, Cookies & Chocolate">
 
-            <iot-ihubx24-button-binding id="a6ButtonBinding" location="/dev/ihubx24-sim0">
-            <iot-ohubx24-color-binding id="a6RelayBinding" channels-per-element="2" location="/dev/ohubx24-sim0">
+            <iot-ibits-button-binding id="a6ButtonBinding" location="/dev/ihubx24-sim0">
+            <iot-obits-color-binding id="a6RelayBinding" channels-per-element="2" location="/dev/ohubx24-sim0">
 
             <iot-button id="a6Product1Button" shelving-unit-id="a6L1" binding="a6ButtonBinding">
             <iot-button id="a6Product2Button" shelving-unit-id="a6L2" binding="a6ButtonBinding">
