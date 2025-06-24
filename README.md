@@ -121,43 +121,71 @@ for (const [tagName, elementFactory] of collection) {
 ## Domain-specific collections
 
 ### Retail
-`createHTMLIoTAisleElement`
+`HTMLIoTAisleElement`
 
-`createHTMLIoTButtonElement`
+`HTMLIoTAudioElement`
 
-`createHTMLIoTShelvingUnitElement`
+`HTMLIoTBasketElement`
 
-`createHTMLIoTAudioElement`
+`HTMLIoTButtonElement`
 
-`createHTMLIoTVideoElement`
+`HTMLIoTColumnElement`
+
+`HTMLIoTCompartmentElement`
+
+`HTMLIoTCubbyElement`
+
+`HTMLIoTCustomerElement`
+
+`HTMLIoTDisplayUnitElement`
+
+`HTMLIoTEndcapElement`
+
+`HTMLIoTGondolaElement`
+
+`HTMLIoTItemElement`
+
+`HTMLIoTLineElement`
+
+`HTMLIoTPodiumElement`
+
+`HTMLIoTRoomElement`
+
+`HTMLIoTShelfElement`
+
+`HTMLIoTShelvingUnitElement`
+
+`HTMLIoTTileElement`
+
+`HTMLIoTVideoElement`
 
 ### Home
-`createHTMLIoTRoomElement`
+`HTMLIoTAudioElement`
 
-`createHTMLIoTWindowElement`
+`HTMLIoTCurtainElement`
 
-`createHTMLIoTCurtainElement`
+`HTMLIoTLampElement`
 
-`createHTMLIoTLampElement`
+`HTMLIoTRoomElement`
 
-`createHTMLIoTAudioElement`
+`HTMLIoTVideoElement`
 
-`createHTMLIoTVideoElement`
+`HTMLIoTWindowElement`
 
 ### Hospitality
-`createHTMLIoTRoomElement`
+`HTMLIoTAudioElement`
 
-`createHTMLIoTDoorElement`
+`HTMLIoTCurtainElement`
 
-`createHTMLIoTWindowElement`
+`HTMLIoTDoorElement`
 
-`createHTMLIoTCurtainElement`
+`HTMLIoTLampElement`
 
-`createHTMLIoTLampElement`
+`HTMLIoTRoomElement`
 
-`createHTMLIoTAudioElement`
+`HTMLIoTVideoElement`
 
-`createHTMLIoTVideoElement`
+`HTMLIoTWindowElement`
 
 ## License
 
